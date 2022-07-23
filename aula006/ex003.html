@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            background-color: rgb(111, 85, 134);
+            color: #121212;
+            font: normal 15pt Arial;
+        }
+
+        p {
+            color: white; /* comentário no css */
+        }
+    </style>
+</head>
+<body>
+    <h1>Olá, mundo!</h1>
+    <p>Me livrei da maldição</p> 
+    <!-- Comentário no html -->
+
+    <script>
+        //jogando o resultado da execucação desse comando dentro de uma variável
+        var nome = window.prompt('Qual seu nome?')
+        //variável | nome | recebe | resultado do prompt
+
+        var sobrenome = window.prompt('Qual seu sobrenome?')
+
+        window.alert('É um prazer em te conhecer, ' + nome + " " + sobrenome + "!") //Esse "+" é uma concatenação(junta-se a uma sequência lógica)
+    </script>
+</body>
+</html>
