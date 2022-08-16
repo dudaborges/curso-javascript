@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(111, 85, 134);
+    color: #121212;
+    font: normal 15pt Arial;
+}
+
+p {
+    color: white; /* comentário no css */
+}
