@@ -10,6 +10,8 @@ while(contador <= 6){
 
 var contador = 1
 
+//faça esse bloco de código: imprima na tela isso e adicione 1 a variável "contador".
+//Enquanto o contador for maior ou igual a 3, execute novamente
 do{
     console.log(`Passo ${contador}`)
     contador++
