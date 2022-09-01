@@ -1,6 +1,7 @@
 /*
 var contador = 1
 
+//enquanto a variável for menor ou igual a 6, execute esse bloco de código: imprima na tela isso e adicione 1.
 while(contador <= 6){
     console.log(`Passo ${contador}`)
     contador = contador + 1 //ou resumido: contador++
