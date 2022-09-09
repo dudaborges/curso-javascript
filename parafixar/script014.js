@@ -10,3 +10,9 @@ for(let indice = 0; indice < frutas.length; indice++){
 }
 
 
+//para cada índice dentro da array frutas imprima isto
+for(let indice in frutas){
+    console.log(`${indice} - ${frutas[indice]}`)
+}
+
+
