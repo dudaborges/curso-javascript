@@ -12,4 +12,3 @@ console.log(`O vetor tem ${num.length} posições`) //para descobrir o tamanho d
 console.log(`O primeiro elemento desse vetor é o ${num[0]}`)
 
 
-
