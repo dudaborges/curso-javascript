@@ -16,6 +16,8 @@ function num(n){
     }
 }
 
-let res = num(11)
+// let res = num(11)
 
-console.log(res)
+// console.log(res)
+
+console.log(num(2))
